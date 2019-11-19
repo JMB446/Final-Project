@@ -1,4 +1,4 @@
-# Team Name: 
+# Team Name
 Trashy Playgrounds
 
 # Metric
