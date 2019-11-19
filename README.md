@@ -6,6 +6,7 @@ The metric we came up with to define "bestness" was density of smart trashcans a
 
 # Results
 Trashcans: The neighborhood that has the most trashcans per square miles is North Shore.
+
 Playgrounds: The neighborhood that has the most playgrounds per square miles is ...
 
 # Conclusion
