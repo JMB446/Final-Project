@@ -1,5 +1,3 @@
-# Final-Project
-
 # Team Name: 
 Trashy Playgrounds
 
