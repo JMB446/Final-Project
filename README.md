@@ -13,4 +13,4 @@ Trashcans: The neighborhood that has the most smart trashcans per square miles i
 Playgrounds: The neighborhood that has the most playgrounds per square miles is Allegheny Center.
 
 # Conclusion
-Based on our measure of "bestness," the best neighborhood in Pittsburgh is Crawfore-Roberts!
+Based on our measure of "bestness," the best neighborhood in Pittsburgh is Crawford-Roberts!
