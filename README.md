@@ -1,6 +1,11 @@
 # Team Name
 Trashy Playgrounds
 
+# Team Members
+* Connor Sweeney
+* 
+* 
+
 # Datasets
 The datasets that we used in our project were City of Pittsburgh Playgrounds, Smart Trash Containers, and Pittsburgh Neighborhoods.
 
