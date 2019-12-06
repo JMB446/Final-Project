@@ -3,7 +3,7 @@ Trashy Playgrounds
 
 # Team Members
 * Connor Sweeney
-* 
+* Joel Predix
 * 
 
 # Datasets
